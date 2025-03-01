@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'SchoolBook';
+    src: url('SchoolBookBoldItalicCyrillic.woff2') format('woff2'),
+        url('SchoolBookBoldItalicCyrillic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SchoolBook';
+    src: url('SchoolBookBoldCyrillic.woff2') format('woff2'),
+        url('SchoolBookBoldCyrillic.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SchoolBook';
+    src: url('SchoolBookCyrillic.woff2') format('woff2'),
+        url('SchoolBookCyrillic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SchoolBook';
+    src: url('SchoolBookItalicCyrillic.woff2') format('woff2'),
+        url('SchoolBookItalicCyrillic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
